@@ -1,0 +1,14 @@
+C:\Users\flavi\risk_system\obj\Debug\net7.0\risk_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\risk_system\obj\Debug\net7.0\risk_system.AssemblyInfoInputs.cache
+C:\Users\flavi\risk_system\obj\Debug\net7.0\risk_system.AssemblyInfo.cs
+C:\Users\flavi\risk_system\obj\Debug\net7.0\risk_system.csproj.CoreCompileInputs.cache
+c:\Users\flavi\risk_system\bin\Debug\net7.0\risk_system.exe
+c:\Users\flavi\risk_system\bin\Debug\net7.0\risk_system.deps.json
+c:\Users\flavi\risk_system\bin\Debug\net7.0\risk_system.runtimeconfig.json
+c:\Users\flavi\risk_system\bin\Debug\net7.0\risk_system.dll
+c:\Users\flavi\risk_system\bin\Debug\net7.0\risk_system.pdb
+c:\Users\flavi\risk_system\obj\Debug\net7.0\risk_system.dll
+c:\Users\flavi\risk_system\obj\Debug\net7.0\refint\risk_system.dll
+c:\Users\flavi\risk_system\obj\Debug\net7.0\risk_system.pdb
+c:\Users\flavi\risk_system\obj\Debug\net7.0\risk_system.genruntimeconfig.cache
+c:\Users\flavi\risk_system\obj\Debug\net7.0\ref\risk_system.dll
